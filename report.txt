@@ -1,0 +1,17 @@
+Barber	Ryley	97	65	55	C
+Barrett	Edan	98	63	53	C
+Bradshaw	Reagan	89	55	38	D
+Cabot	Henry	94	97	85	A
+Charlton	Caius	41	73	75	D
+Flynn	Jane	99	95	70	B
+Holder	Guto	59	71	61	D
+King	Sonya	85	43	56	D
+Mayo	Tyrese	76	57	96	C
+Min	Johnny	46	43	67	F
+Preston	Mcauley	89	98	94	A
+Robison	Lynda	96	90	55	B
+Stern	Brenda	68	84	52	D
+Stott	Peyton	80	57	59	D
+Warner	Gwion	65	36	47	F
+
+Averages: midterm1 78.80, midterm2 68.47, final 64.20
